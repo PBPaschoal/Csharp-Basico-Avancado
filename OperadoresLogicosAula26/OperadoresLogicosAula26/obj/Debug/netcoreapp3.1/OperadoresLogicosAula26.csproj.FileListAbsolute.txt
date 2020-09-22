@@ -1,0 +1,13 @@
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\OperadoresLogicosAula26\OperadoresLogicosAula26\bin\Debug\netcoreapp3.1\OperadoresLogicosAula26.exe
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\OperadoresLogicosAula26\OperadoresLogicosAula26\bin\Debug\netcoreapp3.1\OperadoresLogicosAula26.deps.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\OperadoresLogicosAula26\OperadoresLogicosAula26\bin\Debug\netcoreapp3.1\OperadoresLogicosAula26.runtimeconfig.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\OperadoresLogicosAula26\OperadoresLogicosAula26\bin\Debug\netcoreapp3.1\OperadoresLogicosAula26.runtimeconfig.dev.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\OperadoresLogicosAula26\OperadoresLogicosAula26\bin\Debug\netcoreapp3.1\OperadoresLogicosAula26.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\OperadoresLogicosAula26\OperadoresLogicosAula26\bin\Debug\netcoreapp3.1\OperadoresLogicosAula26.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\OperadoresLogicosAula26\OperadoresLogicosAula26\obj\Debug\netcoreapp3.1\OperadoresLogicosAula26.csprojAssemblyReference.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\OperadoresLogicosAula26\OperadoresLogicosAula26\obj\Debug\netcoreapp3.1\OperadoresLogicosAula26.AssemblyInfoInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\OperadoresLogicosAula26\OperadoresLogicosAula26\obj\Debug\netcoreapp3.1\OperadoresLogicosAula26.AssemblyInfo.cs
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\OperadoresLogicosAula26\OperadoresLogicosAula26\obj\Debug\netcoreapp3.1\OperadoresLogicosAula26.csproj.CoreCompileInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\OperadoresLogicosAula26\OperadoresLogicosAula26\obj\Debug\netcoreapp3.1\OperadoresLogicosAula26.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\OperadoresLogicosAula26\OperadoresLogicosAula26\obj\Debug\netcoreapp3.1\OperadoresLogicosAula26.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\OperadoresLogicosAula26\OperadoresLogicosAula26\obj\Debug\netcoreapp3.1\OperadoresLogicosAula26.genruntimeconfig.cache
