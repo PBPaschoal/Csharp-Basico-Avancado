@@ -1,0 +1,13 @@
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 38 Exemplo Problema 01\Aula 38 Exemplo Problema 01\bin\Debug\netcoreapp3.1\Aula 38 Exemplo Problema 01.exe
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 38 Exemplo Problema 01\Aula 38 Exemplo Problema 01\bin\Debug\netcoreapp3.1\Aula 38 Exemplo Problema 01.deps.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 38 Exemplo Problema 01\Aula 38 Exemplo Problema 01\bin\Debug\netcoreapp3.1\Aula 38 Exemplo Problema 01.runtimeconfig.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 38 Exemplo Problema 01\Aula 38 Exemplo Problema 01\bin\Debug\netcoreapp3.1\Aula 38 Exemplo Problema 01.runtimeconfig.dev.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 38 Exemplo Problema 01\Aula 38 Exemplo Problema 01\bin\Debug\netcoreapp3.1\Aula 38 Exemplo Problema 01.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 38 Exemplo Problema 01\Aula 38 Exemplo Problema 01\bin\Debug\netcoreapp3.1\Aula 38 Exemplo Problema 01.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 38 Exemplo Problema 01\Aula 38 Exemplo Problema 01\obj\Debug\netcoreapp3.1\Aula 38 Exemplo Problema 01.csprojAssemblyReference.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 38 Exemplo Problema 01\Aula 38 Exemplo Problema 01\obj\Debug\netcoreapp3.1\Aula 38 Exemplo Problema 01.AssemblyInfoInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 38 Exemplo Problema 01\Aula 38 Exemplo Problema 01\obj\Debug\netcoreapp3.1\Aula 38 Exemplo Problema 01.AssemblyInfo.cs
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 38 Exemplo Problema 01\Aula 38 Exemplo Problema 01\obj\Debug\netcoreapp3.1\Aula 38 Exemplo Problema 01.csproj.CoreCompileInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 38 Exemplo Problema 01\Aula 38 Exemplo Problema 01\obj\Debug\netcoreapp3.1\Aula 38 Exemplo Problema 01.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 38 Exemplo Problema 01\Aula 38 Exemplo Problema 01\obj\Debug\netcoreapp3.1\Aula 38 Exemplo Problema 01.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula 38 Exemplo Problema 01\Aula 38 Exemplo Problema 01\obj\Debug\netcoreapp3.1\Aula 38 Exemplo Problema 01.genruntimeconfig.cache
