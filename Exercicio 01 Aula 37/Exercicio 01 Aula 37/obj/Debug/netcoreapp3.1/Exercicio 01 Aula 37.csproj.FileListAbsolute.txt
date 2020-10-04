@@ -1,0 +1,13 @@
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Exercicio 01 Aula 37\Exercicio 01 Aula 37\bin\Debug\netcoreapp3.1\Exercicio 01 Aula 37.exe
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Exercicio 01 Aula 37\Exercicio 01 Aula 37\bin\Debug\netcoreapp3.1\Exercicio 01 Aula 37.deps.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Exercicio 01 Aula 37\Exercicio 01 Aula 37\bin\Debug\netcoreapp3.1\Exercicio 01 Aula 37.runtimeconfig.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Exercicio 01 Aula 37\Exercicio 01 Aula 37\bin\Debug\netcoreapp3.1\Exercicio 01 Aula 37.runtimeconfig.dev.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Exercicio 01 Aula 37\Exercicio 01 Aula 37\bin\Debug\netcoreapp3.1\Exercicio 01 Aula 37.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Exercicio 01 Aula 37\Exercicio 01 Aula 37\bin\Debug\netcoreapp3.1\Exercicio 01 Aula 37.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Exercicio 01 Aula 37\Exercicio 01 Aula 37\obj\Debug\netcoreapp3.1\Exercicio 01 Aula 37.csprojAssemblyReference.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Exercicio 01 Aula 37\Exercicio 01 Aula 37\obj\Debug\netcoreapp3.1\Exercicio 01 Aula 37.AssemblyInfoInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Exercicio 01 Aula 37\Exercicio 01 Aula 37\obj\Debug\netcoreapp3.1\Exercicio 01 Aula 37.AssemblyInfo.cs
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Exercicio 01 Aula 37\Exercicio 01 Aula 37\obj\Debug\netcoreapp3.1\Exercicio 01 Aula 37.csproj.CoreCompileInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Exercicio 01 Aula 37\Exercicio 01 Aula 37\obj\Debug\netcoreapp3.1\Exercicio 01 Aula 37.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Exercicio 01 Aula 37\Exercicio 01 Aula 37\obj\Debug\netcoreapp3.1\Exercicio 01 Aula 37.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Exercicio 01 Aula 37\Exercicio 01 Aula 37\obj\Debug\netcoreapp3.1\Exercicio 01 Aula 37.genruntimeconfig.cache
