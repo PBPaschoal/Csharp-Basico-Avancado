@@ -1,6 +1,6 @@
 ﻿/* Rio de Janeiro, Brasil.
  * Domingo: Dia 04 de outubro de 2020.
- * Aula 37 Exercicio 01:
+ * Aula 37 Exercício 01:
  * Fazer um programa para ler os dados de duas pessoas, depois mostrar o nome da pessoa mais velha.
  * Exemplo:
  * Dados da primeira pessoa:
