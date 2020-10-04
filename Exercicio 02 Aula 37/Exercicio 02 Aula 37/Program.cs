@@ -1,6 +1,6 @@
 ﻿/*Rio de Janeiro, Brasil.
  * Domingo: Dia 04 de outubro de 2020.
- * Aula 37 Exercicio 02: 
+ * Aula 37 Exercício 02: 
  * Fazer um programa para ler o nome e salário de dois funcionários.
  * Depois, mostrar o salário médio dos funcionários.
  * Exemplo:
