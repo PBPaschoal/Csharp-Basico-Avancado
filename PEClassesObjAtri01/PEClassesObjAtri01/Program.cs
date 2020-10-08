@@ -20,29 +20,28 @@ namespace PEClassesObjAtri01
     {
         static void Main(string[] args)
         {
-            Class1 N, I;
 
-            N = new Class1();
-            I = new Class1();
+            Class1 p1 = new Class1();
+            Class1 p2 = new Class1();
 
             Console.WriteLine("Dados da primeira pessoa: ");
             Console.Write("Nome: ");
-            String NomeP01 = Console.ReadLine();
+            p1.Nome = Console.ReadLine();
             Console.Write("Idade: ");
-            int IdadeP01 = int.Parse(Console.ReadLine());
+            p1.Idade = int.Parse(Console.ReadLine());
             Console.WriteLine("Dados da segunda pessoa: ");
             Console.Write("Nome: ");
-            String NomeP02 = Console.ReadLine();
+            p2.Nome = Console.ReadLine();
             Console.Write("Idade: ");
-            int IdadeP02 = int.Parse(Console.ReadLine());
+            p2.Idade = int.Parse(Console.ReadLine());
 
-            if (IdadeP01 > IdadeP02)
+            if (p1.Idade > p2.Idade)
             {
-                Console.WriteLine("Pessoa mais velha: " + NomeP01);
+                Console.WriteLine("Pessoa mais velha: " + p1.Nome);
             }
             else
             {
-                Console.WriteLine("Pessoa mais velha: " + NomeP02);
+                Console.WriteLine("Pessoa mais velha: " + p2.Nome);
             }
         }
     }
