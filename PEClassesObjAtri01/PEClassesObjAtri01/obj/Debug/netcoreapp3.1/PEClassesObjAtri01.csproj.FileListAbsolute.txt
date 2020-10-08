@@ -1,0 +1,13 @@
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\PEClassesObjAtri01\PEClassesObjAtri01\bin\Debug\netcoreapp3.1\PEClassesObjAtri01.exe
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\PEClassesObjAtri01\PEClassesObjAtri01\bin\Debug\netcoreapp3.1\PEClassesObjAtri01.deps.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\PEClassesObjAtri01\PEClassesObjAtri01\bin\Debug\netcoreapp3.1\PEClassesObjAtri01.runtimeconfig.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\PEClassesObjAtri01\PEClassesObjAtri01\bin\Debug\netcoreapp3.1\PEClassesObjAtri01.runtimeconfig.dev.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\PEClassesObjAtri01\PEClassesObjAtri01\bin\Debug\netcoreapp3.1\PEClassesObjAtri01.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\PEClassesObjAtri01\PEClassesObjAtri01\bin\Debug\netcoreapp3.1\PEClassesObjAtri01.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\PEClassesObjAtri01\PEClassesObjAtri01\obj\Debug\netcoreapp3.1\PEClassesObjAtri01.csprojAssemblyReference.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\PEClassesObjAtri01\PEClassesObjAtri01\obj\Debug\netcoreapp3.1\PEClassesObjAtri01.AssemblyInfoInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\PEClassesObjAtri01\PEClassesObjAtri01\obj\Debug\netcoreapp3.1\PEClassesObjAtri01.AssemblyInfo.cs
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\PEClassesObjAtri01\PEClassesObjAtri01\obj\Debug\netcoreapp3.1\PEClassesObjAtri01.csproj.CoreCompileInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\PEClassesObjAtri01\PEClassesObjAtri01\obj\Debug\netcoreapp3.1\PEClassesObjAtri01.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\PEClassesObjAtri01\PEClassesObjAtri01\obj\Debug\netcoreapp3.1\PEClassesObjAtri01.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\PEClassesObjAtri01\PEClassesObjAtri01\obj\Debug\netcoreapp3.1\PEClassesObjAtri01.genruntimeconfig.cache
