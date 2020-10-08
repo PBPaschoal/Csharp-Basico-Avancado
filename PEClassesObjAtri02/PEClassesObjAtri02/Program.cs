@@ -21,23 +21,22 @@ namespace PEClassesObjAtri02
     {
         static void Main(string[] args)
         {
-            Dados Nom, SaLr;
-
-            Nom = new Dados();
-            SaLr = new Dados();
+            Dados f1 = new Dados();
+            Dados f2 = new Dados();
 
             Console.WriteLine("Dados do primeiro funcionário: ");
             Console.Write("Nome: ");
-            String Nome01 = Console.ReadLine();
+            f1.Nome = Console.ReadLine();
             Console.Write("Salário: ");
-            double Salario01 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            f1.Salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+
             Console.WriteLine("Dados do segundo funcionário: ");
             Console.Write("Nome: ");
-            String Nome02 = Console.ReadLine();
+            f2.Nome = Console.ReadLine();
             Console.Write("Salário: ");
-            double Salario02 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            f2.Salario = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            double Resultado = (Salario01 + Salario02) / 2.0;
+            double Resultado = (f1.Salario + f2.Salario) / 2.0;
             Console.WriteLine("Salário médio = " + Resultado.ToString("F2", CultureInfo.InvariantCulture));
         }
     }
