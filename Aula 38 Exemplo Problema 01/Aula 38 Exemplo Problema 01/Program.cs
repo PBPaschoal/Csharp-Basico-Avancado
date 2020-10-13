@@ -1,6 +1,6 @@
 ﻿/* Rio de Janeiro, Brasil.
  * Segunda: Dia 12 de outubro de 2020.
- * Mesmo programa anterior, mas adicionando novos metodos.
+ * Mesmo programa anterior, mas adicionando novos métodos.
  * Problema Exemplo:
  * Fazer um programa para ler as medidas dos lados de dois triângulos X e Y (suponha medidas válidas).
  * Em seguida, mostrar o valor das áreas dos dois triângulos e dizer qual dos dois triângulos possui a maior área.
