@@ -1,5 +1,5 @@
 ﻿/* Rio de Janeiro
- * Quarta-feira dia 07-10-2020
+ * Quarta-feira dia 07-10-2020.
  * Aula 40 - Primeiros exercícios (classes, objetos e atributos).
  * Exercício 01:
  * Fazer um programa para ler os dados de duas pessoas, depois mostrar o nome da pessoa mais velha.
