@@ -1,0 +1,13 @@
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula42Exercicio01\Aula42Exercicio01\bin\Debug\netcoreapp3.1\Aula42Exercicio01.exe
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula42Exercicio01\Aula42Exercicio01\bin\Debug\netcoreapp3.1\Aula42Exercicio01.deps.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula42Exercicio01\Aula42Exercicio01\bin\Debug\netcoreapp3.1\Aula42Exercicio01.runtimeconfig.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula42Exercicio01\Aula42Exercicio01\bin\Debug\netcoreapp3.1\Aula42Exercicio01.runtimeconfig.dev.json
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula42Exercicio01\Aula42Exercicio01\bin\Debug\netcoreapp3.1\Aula42Exercicio01.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula42Exercicio01\Aula42Exercicio01\bin\Debug\netcoreapp3.1\Aula42Exercicio01.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula42Exercicio01\Aula42Exercicio01\obj\Debug\netcoreapp3.1\Aula42Exercicio01.csprojAssemblyReference.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula42Exercicio01\Aula42Exercicio01\obj\Debug\netcoreapp3.1\Aula42Exercicio01.AssemblyInfoInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula42Exercicio01\Aula42Exercicio01\obj\Debug\netcoreapp3.1\Aula42Exercicio01.AssemblyInfo.cs
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula42Exercicio01\Aula42Exercicio01\obj\Debug\netcoreapp3.1\Aula42Exercicio01.csproj.CoreCompileInputs.cache
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula42Exercicio01\Aula42Exercicio01\obj\Debug\netcoreapp3.1\Aula42Exercicio01.dll
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula42Exercicio01\Aula42Exercicio01\obj\Debug\netcoreapp3.1\Aula42Exercicio01.pdb
+E:\PBPaschoal Documentos\Estudo\Linguagens de Programação\Programas C#\VS2019\Aula42Exercicio01\Aula42Exercicio01\obj\Debug\netcoreapp3.1\Aula42Exercicio01.genruntimeconfig.cache
