@@ -1,4 +1,4 @@
-﻿/* Rio de Janeiro, dia 01-11-2020, sábado.
+﻿/* Rio de Janeiro, dia 01-11-2020, domingo.
  * Aula 45 Curso C# Completo 2020 Programação Orientada a Objetos + Projetos.
  * Exercício 02
  * Fazer um programa para ler os dados de um funcionário (nome, salário bruto e imposto).
