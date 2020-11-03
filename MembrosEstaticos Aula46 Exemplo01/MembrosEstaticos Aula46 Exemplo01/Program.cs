@@ -24,15 +24,15 @@ namespace MembrosEstaticos_Aula46_Exemplo01
 {
     class Program
     {
-        static double Pi = 3.14; //declarando PI aproximado.
+        static double Pi = 3.14; //Declarando PI aproximado.
 
         static void Main(string[] args)
         {
             Console.Write("Entre o valor do raio: ");
             double raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            double circ = Circunferencia(raio); //variavel circ chamando a função Circunferencia
-            double volume = Volume(raio); //variavel volume chamando a função Volume
+            double circ = Circunferencia(raio); //Variável circ chamando a função Circunferencia.
+            double volume = Volume(raio); //Variável volume chamando a função Volume.
 
             Console.WriteLine("Circunferência: " + circ.ToString("F2", CultureInfo.InvariantCulture));
             Console.WriteLine("Volume: " + volume.ToString("F2", CultureInfo.InvariantCulture));
@@ -41,15 +41,15 @@ namespace MembrosEstaticos_Aula46_Exemplo01
 
         //Criar uma função para calcular a circunferencia:
         //Obs: Não precisa colocar a palavra public, porque está sendo utilizado dentro da mesma classe. Mas precisa colocar static
-        //porque esta dentro de uma função Main (que é statica):
-        static double Circunferencia(double r) //esse "raio" não é o mesmo da variavel acima, é apenas um parametro
+        //Porque esta dentro de uma função Main (que é statica):
+        static double Circunferencia(double r) //Esse "raio" não é o mesmo da variável acima, é apenas um parâmetro.
         {
-            return 2.0 * Pi * r; //Formula da circunferencia
+            return 2.0 * Pi * r; //Fórmula da circunferencia.
         }
 
-        static double Volume(double r) //Função Volume
+        static double Volume(double r) //Função Volume.
         {
-            return 4.0 / 3.0 * Pi * Math.Pow(r, 3.0); //4/3 * Pi * raio ao cubo
+            return 4.0 / 3.0 * Pi * Math.Pow(r, 3.0); //4/3 * Pi * raio ao cubo.
         }
     }
 }
