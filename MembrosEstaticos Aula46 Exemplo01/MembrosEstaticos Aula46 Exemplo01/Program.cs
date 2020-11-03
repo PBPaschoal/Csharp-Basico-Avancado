@@ -24,29 +24,32 @@ namespace MembrosEstaticos_Aula46_Exemplo01
 {
     class Program
     {
-        static double Pi = 3.14;
+        static double Pi = 3.14; //declarando PI aproximado.
 
         static void Main(string[] args)
         {
-            Console.WriteLine("Entre o valor do raio: ");
+            Console.Write("Entre o valor do raio: ");
             double raio = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            double circ = Circunferencia(raio);
-            double volume = Volume(raio);
+            double circ = Circunferencia(raio); //variavel circ chamando a função Circunferencia
+            double volume = Volume(raio); //variavel volume chamando a função Volume
 
             Console.WriteLine("Circunferência: " + circ.ToString("F2", CultureInfo.InvariantCulture));
             Console.WriteLine("Volume: " + volume.ToString("F2", CultureInfo.InvariantCulture));
             Console.WriteLine("Valor de PI: " + Pi.ToString("F2", CultureInfo.InvariantCulture));
         }
 
+        //Criar uma função para calcular a circunferencia:
+        //Obs: Não precisa colocar a palavra public, porque está sendo utilizado dentro da mesma classe. Mas precisa colocar static
+        //porque esta dentro de uma função Main (que é statica):
         static double Circunferencia(double r) //esse "raio" não é o mesmo da variavel acima, é apenas um parametro
         {
-            return 2.0 * Pi * r;
+            return 2.0 * Pi * r; //Formula da circunferencia
         }
 
-        static double Volume(double r)
+        static double Volume(double r) //Função Volume
         {
-            return 4.0 / 3.0 * Pi * Math.Pow(r, 3.0);
+            return 4.0 / 3.0 * Pi * Math.Pow(r, 3.0); //4/3 * Pi * raio ao cubo
         }
     }
 }
