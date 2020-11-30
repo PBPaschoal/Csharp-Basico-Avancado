@@ -1,0 +1,13 @@
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Versao 02 Aula 46\Versao 02 Aula 46\bin\Debug\netcoreapp3.1\Versao 02 Aula 46.exe
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Versao 02 Aula 46\Versao 02 Aula 46\bin\Debug\netcoreapp3.1\Versao 02 Aula 46.deps.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Versao 02 Aula 46\Versao 02 Aula 46\bin\Debug\netcoreapp3.1\Versao 02 Aula 46.runtimeconfig.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Versao 02 Aula 46\Versao 02 Aula 46\bin\Debug\netcoreapp3.1\Versao 02 Aula 46.runtimeconfig.dev.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Versao 02 Aula 46\Versao 02 Aula 46\bin\Debug\netcoreapp3.1\Versao 02 Aula 46.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Versao 02 Aula 46\Versao 02 Aula 46\bin\Debug\netcoreapp3.1\Versao 02 Aula 46.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Versao 02 Aula 46\Versao 02 Aula 46\obj\Debug\netcoreapp3.1\Versao 02 Aula 46.csprojAssemblyReference.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Versao 02 Aula 46\Versao 02 Aula 46\obj\Debug\netcoreapp3.1\Versao 02 Aula 46.AssemblyInfoInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Versao 02 Aula 46\Versao 02 Aula 46\obj\Debug\netcoreapp3.1\Versao 02 Aula 46.AssemblyInfo.cs
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Versao 02 Aula 46\Versao 02 Aula 46\obj\Debug\netcoreapp3.1\Versao 02 Aula 46.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Versao 02 Aula 46\Versao 02 Aula 46\obj\Debug\netcoreapp3.1\Versao 02 Aula 46.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Versao 02 Aula 46\Versao 02 Aula 46\obj\Debug\netcoreapp3.1\Versao 02 Aula 46.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\Versao 02 Aula 46\Versao 02 Aula 46\obj\Debug\netcoreapp3.1\Versao 02 Aula 46.genruntimeconfig.cache
