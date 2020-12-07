@@ -1,0 +1,13 @@
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\ExercicioPropostaAula48E01\ExercicioPropostaAula48E01\bin\Debug\netcoreapp3.1\ExercicioPropostaAula48E01.exe
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\ExercicioPropostaAula48E01\ExercicioPropostaAula48E01\bin\Debug\netcoreapp3.1\ExercicioPropostaAula48E01.deps.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\ExercicioPropostaAula48E01\ExercicioPropostaAula48E01\bin\Debug\netcoreapp3.1\ExercicioPropostaAula48E01.runtimeconfig.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\ExercicioPropostaAula48E01\ExercicioPropostaAula48E01\bin\Debug\netcoreapp3.1\ExercicioPropostaAula48E01.runtimeconfig.dev.json
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\ExercicioPropostaAula48E01\ExercicioPropostaAula48E01\bin\Debug\netcoreapp3.1\ExercicioPropostaAula48E01.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\ExercicioPropostaAula48E01\ExercicioPropostaAula48E01\bin\Debug\netcoreapp3.1\ExercicioPropostaAula48E01.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\ExercicioPropostaAula48E01\ExercicioPropostaAula48E01\obj\Debug\netcoreapp3.1\ExercicioPropostaAula48E01.csprojAssemblyReference.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\ExercicioPropostaAula48E01\ExercicioPropostaAula48E01\obj\Debug\netcoreapp3.1\ExercicioPropostaAula48E01.AssemblyInfoInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\ExercicioPropostaAula48E01\ExercicioPropostaAula48E01\obj\Debug\netcoreapp3.1\ExercicioPropostaAula48E01.AssemblyInfo.cs
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\ExercicioPropostaAula48E01\ExercicioPropostaAula48E01\obj\Debug\netcoreapp3.1\ExercicioPropostaAula48E01.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\ExercicioPropostaAula48E01\ExercicioPropostaAula48E01\obj\Debug\netcoreapp3.1\ExercicioPropostaAula48E01.dll
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\ExercicioPropostaAula48E01\ExercicioPropostaAula48E01\obj\Debug\netcoreapp3.1\ExercicioPropostaAula48E01.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\ExercicioPropostaAula48E01\ExercicioPropostaAula48E01\obj\Debug\netcoreapp3.1\ExercicioPropostaAula48E01.genruntimeconfig.cache
