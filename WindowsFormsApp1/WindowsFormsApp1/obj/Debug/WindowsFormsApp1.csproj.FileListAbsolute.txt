@@ -1,0 +1,16 @@
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ContactDB.mdf
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\ContactDB_log.ldf
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.manifest
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.application
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.manifest
+D:\PBPaschoal\Estudos\Linguagens de Programação\C#\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.application
