@@ -1,0 +1,31 @@
+using System;
+					
+public class Program
+{
+	public static void Main()
+	{
+		Console.WriteLine("Esse programa verifica o maior número");
+		Console.WriteLine("Digite o Primeiro número: ");
+		int val1 = int.Parse(Console.ReadLine());
+		Console.WriteLine("Digite o Segundo número: ");
+		int val2 = int.Parse(Console.ReadLine());
+		Console.WriteLine("Digite o Terceiro número: ");
+		int val3 = int.Parse(Console.ReadLine());
+		
+		if(val1 > val2 && val1 > val3)
+		{
+			Console.WriteLine("O primeiro número é maior");
+		}
+		else if(val2 > val1 & val2 > val3)
+		{
+			Console.WriteLine("O segundo número é maior");
+		}
+		else
+		{
+			Console.Write("O terceiro número é maior");
+		}
+			
+		
+							 
+	}
+}
